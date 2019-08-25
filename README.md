@@ -40,3 +40,7 @@ My tutorials will have below sections in all the tutorials.
     - Connect to Git Remote Repository  
         `git remote add origin https://github.com/rahgadda/Basics`  
         `git remote show origin`
+  - Maven
+    - Install maven and add into path
+    - Add VSCode Java Extenssion Pack
+    - Open Folder and run Maven -> Clean,Install and Package
