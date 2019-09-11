@@ -44,7 +44,7 @@ My tutorials will have below sections in all the tutorials.
         `Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'`   
         `Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0`   
         `ssh-keygen -t rsa -b 4096`   
-        # Copy files into remove server and use VSCODE Remote SSH to connect   
+         Copy files into remove server and use VSCODE Remote SSH to connect   
   - Maven
     - Install maven and add into path
     - Add VSCode Java Extenssion Pack
